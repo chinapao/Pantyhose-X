@@ -2,7 +2,11 @@
 
 # Video Demo https://github.com/Survivalwar/Pantyhose-X/releases/tag/1
 
-[![Watch the video](https://github.com/Survivalwar/Pantyhose-X/releases/download/1/1.mp4)
+<video controls="controls">
+  <source type="video/mp4" src="filename.mp4"></source>
+  <source type="video/webm" src="filename.webm"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
 
 ![](images/1.png)
 
