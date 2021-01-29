@@ -2,7 +2,7 @@
 
 # Video Demo https://github.com/Survivalwar/Pantyhose-X/releases/tag/1
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Survivalwar/Pantyhose-X/blob/main/video.html)
+[![Watch the video](https://github.com/Survivalwar/Pantyhose-X/releases/download/1/1.mp4)
 
 ![](images/1.png)
 
