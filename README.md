@@ -1,6 +1,6 @@
 ##  CSGO Hack Tools Black Squad
 
-# Video Demo https://github.com/Survivalwar/Pantyhose-X/releases/tag/1
+# Video Demo (https://github.com/Survivalwar/Pantyhose-X/releases/tag/1)
 
 
 ![](images/1.png)
