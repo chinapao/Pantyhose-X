@@ -2,7 +2,6 @@
 
 # Video Demo https://github.com/Survivalwar/Pantyhose-X/releases/tag/1
 
-[![Watch the video](<div style="position: relative; padding-bottom: 56.25%;padding-top: 35px;height: 0;overflow: hidden;"><iframe frameborder="0" width="976" height="550" src="https://dogeek.net/embed/WR1gqOmGxlK?autoplay=false" allowfullscreen scrolling="no" style="position: absolute;top:0;left: 0;width: 100%; height: 100%"></iframe></div>
 
 ![](images/1.png)
 
