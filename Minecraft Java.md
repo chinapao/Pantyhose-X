@@ -65,7 +65,7 @@ https://pcminecraft-mods.com/tag/adventure-maps-for-minecraft/
 # 
   ## Minecraft Python 教程
   https://imgchr.com/album/BKW6K
-![](map/6.jpg)
+![](map/6.JPG)
 
 ## Minecraft Python 书籍
 https://www.wiley.com/en-gb/Adventures+In+-c-7732
