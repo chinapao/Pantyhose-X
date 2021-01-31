@@ -111,8 +111,10 @@ https://tt.tljpxm.com/app/faxianshow.jsp?id=1776482
 ##  翻译功能浏览器
 Yandex
 
-##  种子下载
+##  种子bt下载
 https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+
+安卓版https://github.com/proninyaroslav/libretorrent
 
 ##  垃圾百度 
 多吉搜索https://dogedoge.com/
