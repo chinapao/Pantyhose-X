@@ -127,7 +127,13 @@ LESO乐搜https://www.leso.ml/
 #
 Magi搜索https://magi.com
 #
-
+#
+#
+###游戏商店
+[gamebanana](https://gamebanana.com/)
+[overwolf](https://www.overwolf.com/)
+[steam](https://store.steampowered.com/app/550650/Black_Squad/)
+[games](https://store.my.games/)
 #
 #
 #
