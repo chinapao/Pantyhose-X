@@ -23,4 +23,30 @@
   
   
   
-  ## 创建服务器
+  ## [创建服务器].(https://cuberite.org/）
+# 
+  ## Minecraft Python 教程
+  https://imgchr.com/album/BKW6K
+![](map/6.jpg)
+
+
+### Minetest
+[https://www.minetest.net/](https://www.minetest.cn/)
+
+### Minetest Python 版
+https://github.com/sprintingkiwi/pycraft_mod
+
+
+
+
+
+##翻译功能浏览器
+Yandex
+
+##种子下载
+垃圾迅雷 [替代品](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+
+##垃圾百度 
+替代品
+
+
