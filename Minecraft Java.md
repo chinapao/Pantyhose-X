@@ -38,15 +38,26 @@ https://github.com/sprintingkiwi/pycraft_mod
 
 
 
+###    替代品
 
-
-##翻译功能浏览器
+##  翻译功能浏览器
 Yandex
 
-##种子下载
-垃圾迅雷 [替代品](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+##  种子下载
+https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
 
-##垃圾百度 
-替代品
+##  垃圾百度 
+多吉搜索https://dogedoge.com/
+#
+GOOBE https://goobe.io/
+#
+秘迹搜索https://mijisou.com/
+#
+LESO乐搜https://www.leso.ml/
+#
+萌搜https://mengso.com/
+#
+Magi搜索https://magi.com
+#
 
 
