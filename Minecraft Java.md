@@ -129,7 +129,8 @@ Magi搜索https://magi.com
 #
 #
 #
-###游戏商店
+### 游戏商店
+
 [gamebanana](https://gamebanana.com/)
 
 [overwolf](https://www.overwolf.com/)
