@@ -133,16 +133,29 @@ Magi搜索https://magi.com
 #
 
 ## 免费无限容量网盘github
+
 上传文件大小限制2GB
+
 不限速
+
 注册要用手机号接收验证码
+
 https://www.dogedoge.com/results?q=%E5%85%8D%E8%B4%B9%E6%8E%A5%E7%9F%AD%E4%BF%A1
-[滑稽]注册后创建，公有仓库，或私有仓库。
+
+注册后创建，公有仓库，或私有仓库。
+
 然后点Releases上传文件就可以。
+
 视频类文件，建议用密码压缩后再上传。
+
 建议使用标准的压缩软件，不使用标准的压缩软件压缩，会出现解压失败，文件就废了。
+
 Android：ZArchiver 
+
 Win10： 7-Zip
+
 下载建议用多线程下载工具，
+
 Win10：Neat Download Manager 1.2
+
 Android：IDM+
