@@ -23,11 +23,53 @@
   
   
   
+  
+  
+  
   ## [创建服务器].(https://cuberite.org/）
+  
+  ## 模组 
+  https://dev.bukkit.org/
+  https://www.curseforge.com/
+  https://www.minecraft-schematics.com/
+  https://forums.minecraftforge.net/
+  
+  
+  ## Minecraft 世界编辑器
+https://www.worldpainter.net/
+https://www.realtimerendering.com/erich/minecraft/public/mineways/
+
+
+## Minecraft 3D图形导出
+https://minecraft.gamepedia.com/Programs_and_editors/3D_exporters
+https://www.world-machine.com/
+https://github.com/jmc2obj/j-mc-2-obj
+
+
+## Minecraft 版本
+https://minecraft-inside.ru/
+https://files.minecraftforge.net/
+
+
+## Minecraft 博客
+https://www.minethatcraft.com/
+https://minecraftbuildinginc.com/
+https://pcminecraft-mods.com/tag/adventure-maps-for-minecraft/
+
+
+  
+  
 # 
   ## Minecraft Python 教程
   https://imgchr.com/album/BKW6K
 ![](map/6.jpg)
+
+## Minecraft Python 书籍
+https://www.wiley.com/en-gb/Adventures+In+-c-7732
+https://www.wiley.com/WileyCDA/Section/id-823690.html
+
+
+
 
 
 ### Minetest
