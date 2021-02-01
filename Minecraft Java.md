@@ -121,9 +121,12 @@ https://wap.tljpxm.com/app/faxianshow.jsp?id=1776482
 ###    替代品
 
 ##  翻译功能浏览器
-Yandex
 
-PC [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
+PC   [Yandex](https://browser.yandex.com/)
+
+安卓 [Yandex](https://m.downloadatoz.com/yandex-browser-with-protect/com.yandex.browser/)
+
+PC   [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
 
 安卓 [kiwibrowser](https://kiwibrowser.com/)
 
