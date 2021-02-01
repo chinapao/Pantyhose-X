@@ -135,11 +135,6 @@ https://www.crx4chrome.com/
 []()
 
 
-PC [chromium](https://github.com/Hibbiki/chromium-win64/releases)
-
-安卓[kiwibrowser](https://kiwibrowser.com/)
-
-安卓[火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
 
 ##  种子bt下载
 https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
