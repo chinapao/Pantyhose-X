@@ -87,7 +87,7 @@ https://www.wiley.com/WileyCDA/Section/id-823690.html
 https://github.com/sprintingkiwi/pycraft_mod
 
 ### Minetest 教程
-https://tt.tljpxm.com/app/faxianshow.jsp?id=1776482
+https://wap.tljpxm.com/app/faxianshow.jsp?id=1776482
 
 # /grantme all 给自己全部特权。
 # /grant 玩家名称 fly给指定玩家特权、或/grant 玩家名称 all
@@ -168,6 +168,9 @@ Magi搜索https://magi.com
 
 [webtorrent](https://webtorrent.io/)
 
+[安卓](https://m.shouji.com.cn/down/174886.html)
+
+
 
 ## 杀毒软件
 
@@ -187,7 +190,7 @@ Magi搜索https://magi.com
 
 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
 
-安卓[AdGuard]()
+安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
 []()
 
 
