@@ -31,6 +31,11 @@
   导入浏览器或浏览器打开
   
   ## [创建服务器].(https://cuberite.org/）
+  #
+  https://www.youtube.com/watch?v=zNfPAgXS1M0
+  #
+  https://www.youtube.com/watch?v=4Uuig3E8IXU
+ 
   
   ## 模组 
   https://dev.bukkit.org/
