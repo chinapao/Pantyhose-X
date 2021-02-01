@@ -112,6 +112,21 @@ https://wap.tljpxm.com/app/faxianshow.jsp?id=1776482
 ##  翻译功能浏览器
 Yandex
 
+PC [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
+
+安卓 [kiwibrowser](https://kiwibrowser.com/)
+
+安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
+
+[]()
+
+
+PC [chromium](https://github.com/Hibbiki/chromium-win64/releases)
+
+安卓[kiwibrowser](https://kiwibrowser.com/)
+
+安卓[火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
+
 ##  种子bt下载
 https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
 
@@ -191,7 +206,6 @@ Magi搜索https://magi.com
 安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
 
 安卓[AdGuard](https://m.shouji.com.cn/down/31270.html)
-[]()
 
 
 
