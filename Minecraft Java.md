@@ -201,9 +201,14 @@ Magi搜索https://magi.com
 
 [webtorrent](https://webtorrent.io/)
 
+[在线服务器](https://github.com/XIU2/PeerflixServerZH)
+
 [安卓](https://m.shouji.com.cn/down/174886.html)
 
 
+## 驱动更新
+
+[Driver Booster Free](https://www.filehorse.com/download-driver-booster-free/)
 
 ## 杀毒软件
 
