@@ -24,7 +24,11 @@
   
   
   
+  ## 我的 Minecraft 书签分享
   
+  [书签](https://github.com/Survivalwar/Pantyhose-X/releases/tag/bookmarks) 
+  下载bookmarks.html
+  导入浏览器或浏览器打开
   
   ## [创建服务器].(https://cuberite.org/）
   
