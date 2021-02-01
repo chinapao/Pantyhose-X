@@ -128,6 +128,8 @@ PC   [Yandex](https://browser.yandex.com/)
 
 PC   [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.104-r1784)
 
+PC 菜单很大很好   [Atom](https://browser.ru/)
+
 安卓 [kiwibrowser](https://kiwibrowser.com/)
 
 安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
