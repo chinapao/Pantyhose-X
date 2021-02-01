@@ -38,6 +38,7 @@
   ## Minecraft 世界编辑器
 https://www.worldpainter.net/
 https://github.com/topics/minecraft
+https://github.com/collections/hacking-minecraft
 https://www.realtimerendering.com/erich/minecraft/public/mineways/
 
 
@@ -145,7 +146,53 @@ Magi搜索https://magi.com
 
 #
 #
-#
+## 录视频
+
+[obs](https://obsproject.com/)
+
+## 视频播放器
+
+[mpv](https://mpv.io/)
+
+[kmplayer](https://en.kmplayer.com/)
+
+[PotPlayer](https://potplayer.daum.net/)
+
+[jellyfin](https://jellyfin.org/)
+
+## bt播放器
+
+[Soda Player](https://www.sodaplayer.com/)
+
+[powder.media](https://powder.media/)
+
+[webtorrent](https://webtorrent.io/)
+
+
+## 杀毒软件
+
+[malwarebytes](https://www.malwarebytes.com/)
+
+[superantispyware](https://www.superantispyware.com/free-edition.html)
+
+[bitdefender](https://www.bitdefender.com/solutions/free.html)
+
+[comodo](https://www.comodo.com/?af=7639)
+
+[ikarussecurity](https://www.ikarussecurity.com/en/sdks-and-apis/ikarus-scan-engine/)
+
+[avast](https://www.avast.com/zh-cn/free-antivirus-download)
+
+[avira](https://www.avira.com/zh-cn/free-antivirus)
+
+安卓[Anti-virus Dr.Web Light](https://play.google.com/store/apps/details?id=com.drweb&hl=en_US&gl=US)
+
+安卓[AdGuard]()
+[]()
+
+
+
+
 
 ## 免费无限容量网盘github
 
