@@ -118,6 +118,20 @@ PC [chromium](https://github.com/Hibbiki/chromium-win32/releases/tag/v88.0.4324.
 
 安卓 [火狐比官方的好](https://github.com/fork-maintainers/iceraven-browser/releases)
 
+
+
+## 浏览器插件
+
+https://www.gugeapps.net/
+
+http://www.crx4.com/
+
+https://chrome.zzzmh.cn/
+
+https://www.crx4chrome.com/
+
+
+
 []()
 
 
