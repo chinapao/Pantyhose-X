@@ -22,7 +22,8 @@
   ![](map/4.jpg)
   
   
-  
+  ## Minecraft 版本下载
+https://www.minebbs.com/resources/categories/55/
   
   ## 我的 Minecraft 书签分享
   
@@ -59,10 +60,7 @@ https://www.world-machine.com/
 https://github.com/jmc2obj/j-mc-2-obj
 
 
-## Minecraft 版本
-https://minecraft-inside.ru/
-https://files.minecraftforge.net/
-https://tlauncher.org/en/
+
 
 
 
@@ -77,7 +75,9 @@ https://pcminecraft-mods.com/tag/adventure-maps-for-minecraft/
 # 
   ## Minecraft Python 教程
   https://imgchr.com/album/BKW6K
-![](map/6.JPG)
+  #
+ 地图下载[AISS.zip](https://github.com/Pantyhose-X/Pantyhose-X/releases/tag/2)
+ ![](map/6.JPG)
 
 ## Minecraft Python 书籍
 https://www.wiley.com/en-gb/Adventures+In+-c-7732
