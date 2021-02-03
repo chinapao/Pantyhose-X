@@ -164,7 +164,7 @@ GOOBE https://goobe.io/
 #
 秘迹搜索https://mijisou.com/
 #
-LESO乐搜https://www.leso.ml/
+LESO乐搜https://www.leso.bar/
 #
 萌搜https://mengso.com/
 #
